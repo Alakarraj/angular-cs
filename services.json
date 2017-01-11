@@ -1,0 +1,20 @@
+[
+    {
+        "id" : 11,
+        "name" : "Computer Sales",
+        "description" : "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+        "logo": "http://www.yume.com/sites/all/themes/yume/images/yumelogos/PNG/YuMe_Logo_OverLight_RGB.png"
+    },
+    {
+        "id" : 12,
+        "name" : "Software Installation",
+        "description" : "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+        "logo": "http://www.yume.com/sites/all/themes/yume/images/yumelogos/PNG/YuMe_Logo_OverLight_RGB.png"
+    },
+    {
+        "id" : 13,
+        "name" : "System Services",
+        "description" : "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+        "logo": "http://www.yume.com/sites/all/themes/yume/images/yumelogos/PNG/YuMe_Logo_OverLight_RGB.png"
+    }
+]

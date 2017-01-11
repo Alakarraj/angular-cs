@@ -1,0 +1,57 @@
+[
+    {
+        
+        "city" : "Paris",
+        "address1" : "80 avenue de la grande armee",
+        "address2": "75017 Paris",
+        "phone": "+33 1 73 06 01 59" ,
+        "fax": " ",
+        "email": "mailto:aripoche@yume.com&subject=Website Inquiry",
+        "country":"France"
+
+    },
+     {
+        
+        "city" : "London",
+        "address1" : "43-51 Great Titchfield Street,",
+        "address2": "1st Floor,  W1W 7PQ",
+        "phone": "+ 44 (0)207 580 9900" ,
+        "fax": " ",
+        "email": "mailto:plyonette@yume.com&subject=Website Inquiry",
+        "country":"UK"
+
+    },
+     {
+        
+        "city" : "Chennai",
+        "address1" : "Ascendas International Tech Park",
+        "address2": "Unit 3, Fourth Floor, Pinnacle Block,Taramani",
+        "phone": " + 91 44 4266 6880" ,
+        "fax": "+ 91 44 4266 6879",
+        "email": " ",
+        "country":"India"
+
+    },
+     {
+        
+        "city" : "Madrid",
+        "address1" : "Edificio Lima, Paseo de la Castellana",
+        "address2": "140, Planta 18",
+        "phone": "+34 913 917 071" ,
+        "fax": " ",
+        "email": "mailto:smccarthy@yume.com&subject=Website Inquiry",
+        "country":"Spain"
+
+    },
+    {
+        
+        "city" : "London",
+        "address1" : "43-51 Great Titchfield Street,",
+        "address2": "1st Floor,  W1W 7PQ",
+        "phone": "+ 44 (0)207 580 9900" ,
+        "fax": " ",
+        "email": "mailto:plyonette@yume.com&subject=Website Inquiry",
+        "country":"UK"
+
+    }
+]
